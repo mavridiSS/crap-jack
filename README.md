@@ -1,3 +1,19 @@
+## Rules
+
+- Single player vs Dealer
+- Each player is dealt 3 Cards
+- Dealer Hand is dealt face down
+- Player hand is dealt facing up
+
+When the player clicks the Reveal button, the Dealer Hand will be shown, both
+hands scored, and a winner declared.
+
+## Scoring
+
+- Each card is scored as follows: 2 =2, 3=3…. 10 = 10,Picture Cards J /Q / K / A = 10
+- A hand scoring over 21 = Bust
+- The player with the hand closest to, but less than or equal to 21 wins
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

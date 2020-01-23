@@ -1,0 +1,14 @@
+export const CREATE_DECK = "CREATE_DECK";
+export const CREATE_DECK_SUCCESS = "CREATE_DECK_SUCCESS";
+export const CREATE_DECK_FAIL = "CREATE_DECK_FAIL";
+
+export const DRAW_CARDS = "DRAW_CARDS";
+export const DRAW_CARDS_SUCCESS = "DRAW_CARDS_SUCCESS";
+export const DRAW_CARDS_FAIL = "DRAW_CARDS_FAIL";
+
+export const REVEAL_CARDS = "REVEAL_CARDS";
+export const HIDE_DEALER = "HIDE_DEALER";
+
+export const SET_GAME_SCORE = "SET_GAME_SCORE";
+
+export const CLEAR_GAME = "CLEAR_GAME";
